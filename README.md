@@ -36,6 +36,11 @@ The system consists of two STM32-based modules:
 * Li-ion batteries (power supply)
 * Analog joystick module
 
+## Future Improvements
+- Design and 3D print a custom chassis/enclosure
+- Replace prototype wiring with soldered connections (PCB or perfboard)
+- Improve wiring layout for better reliability and noise reduction
+
 ## Prototype
 
 <img src="images/rc_car_prototype.jpg.png" width="400">
