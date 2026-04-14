@@ -36,3 +36,6 @@ The system consists of two STM32-based modules:
 * Li-ion batteries (power supply)
 * Analog joystick module
 
+## Prototype
+
+<img src="images/rc_car_prototype.jpg.png" width="400">
