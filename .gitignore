@@ -50,3 +50,18 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# STM32CubeIDE build folders
+Debug/
+Release/
+
+# STM32CubeIDE settings
+.settings/
+*.launch
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
